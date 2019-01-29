@@ -12,19 +12,29 @@ Jack Crouse - jackhc@live.unc.edu
 Asher Scott - tlalka@live.unc.edu
 
 Client:
+
 Mike Reiter - reiter@cs.unc.edu
 
 # Weekly Meeing Schedule
+
 Professor: Tuesday 11am
+
 Team: 
+
 Client: 
 
 # Roles
+
 client contact
+
 instructor contact
+
 project manager
-game desgin architect
+
+game design architect
+
 software archetect
+
 editor
 
 # Basic game concept
