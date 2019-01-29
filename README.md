@@ -2,9 +2,13 @@
 
 # Contact Information
 Team:
+
 Matthew Martin - mattmart@live.unc.edu
+
 Jeffrey Mei - yuanming@live.unc.edu
+
 Jack Crouse - jackhc@live.unc.edu
+
 Asher Scott - tlalka@live.unc.edu
 
 Client:
