@@ -19,23 +19,19 @@ Mike Reiter - reiter@cs.unc.edu
 
 Professor: Tuesday 11am
 
-Team: 
+Team: Monday 5:30pm
 
-Client: 
+Client: Monday 5pm
 
 # Roles
 
-client contact
+Asher Scott: Client Contact, Instructor Contact, Project Manager
 
-instructor contact
+Jack: Game Design Architect
 
-project manager
+Jeffrey: Software Architect
 
-game design architect
-
-software archetect
-
-editor
+Matt: Editor
 
 # Basic game concept
 We will design a Rougelike Dungeon-crawler where the player navigates distinct rooms with memorable enemies.
