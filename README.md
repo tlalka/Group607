@@ -33,7 +33,6 @@ Jeffrey: Software Architect
 
 Matt: Editor
 
-hello
 # Basic game concept
 We will design a Rougelike Dungeon-crawler where the player navigates distinct rooms with memorable enemies.
 The goal of this project is to develop an alternative method of authentication for users. 
