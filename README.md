@@ -15,7 +15,7 @@ Client:
 
 Mike Reiter - reiter@cs.unc.edu
 
-# Weekly Meeing Schedule
+# Weekly Meeting Schedule
 
 Professor: Tuesday 11am
 
@@ -34,7 +34,7 @@ Jeffrey: Software Architect
 Matt: Editor
 
 # Basic game concept
-We will design a Rougelike Dungeon-crawler where the player navigates distinct rooms with memorable enemies.
+We will design a Roguelike Dungeon-crawler where the player navigates distinct rooms with memorable enemies.
 The goal of this project is to develop an alternative method of authentication for users. 
 In order to login to a device, users will be asked to answer various questions about their last run.
 
