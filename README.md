@@ -39,3 +39,6 @@ We will design a Roguelike Dungeon-crawler where the player navigates distinct r
 The goal of this project is to develop an alternative method of authentication for users. 
 In order to login to a device, users will be asked to answer various questions about their last run.
 
+# Design Document
+https://docs.google.com/document/d/1ew7HFPyrGvfP-JnSguLD-4fIftbNb7rZkgxNktutQpA/edit?usp=sharing
+
